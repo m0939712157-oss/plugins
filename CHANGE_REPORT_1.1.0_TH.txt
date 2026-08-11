@@ -1,0 +1,19 @@
+BOSSMASTER Display 1.1.0 — Copyright + Preview Parity
+
+แก้ไขหลัก
+1. คืนเมนู Copyright ใน WordPress Customizer
+2. Footer อ่านค่า copyright_content เดิมและแสดง HTML พื้นฐานได้
+3. แก้ตัวหนังสือโหมดสว่างที่เคยมองไม่เห็นในหน้ารายละเอียด Gallery Related Header Footer และการ์ด
+4. หน้าแรกปรับตาม BOSSMASTER Interactive Preview:
+   - Hero ข้อความ 2 สีและการ์ดซ้อน 3 ใบ
+   - ทางลัด 3 ช่องใต้ Hero
+   - Featured slider 5 การ์ด มีปุ่มก่อนหน้า/หยุด/ถัดไป
+   - Latest 3 คอลัมน์บนจอใหญ่
+   - Explore 5 ช่องในแถวเดียว
+5. เพิ่มแผงตั้งค่าลอยสำหรับผู้ดูแล:
+   - Neon Night / Pastel Dream / Warm Vanilla
+   - การ์ดแนวตั้ง/แนวนอน
+   - ความหนาแน่นมาตรฐาน/กระชับ
+   - เปิด/ปิด Hero, Featured, Latest, Explore
+   - บันทึกค่า WordPress จริงผ่าน Nonce และ Capability
+6. ไม่แก้ระบบ SEO และไม่แก้ข้อมูลโพสต์/รูป/Taxonomy/UNI Import
